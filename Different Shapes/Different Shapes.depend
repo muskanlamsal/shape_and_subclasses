@@ -1,0 +1,43 @@
+# depslib dependency file v1.0
+1428050229 source:/home/muskan/Desktop/Assignment/Different Shapes/Circle.cpp
+	<iostream>
+	<sstream>
+	"Circle.h"
+
+1428050210 /home/muskan/Desktop/Assignment/Different Shapes/Circle.h
+	<iostream>
+	"Shape.h"
+
+1428050457 /home/muskan/Desktop/Assignment/Different Shapes/Shape.h
+	<iostream>
+
+1428050290 source:/home/muskan/Desktop/Assignment/Different Shapes/Rectangle.cpp
+	<iostream>
+	<sstream>
+	"Rectangle.h"
+
+1428050766 /home/muskan/Desktop/Assignment/Different Shapes/Rectangle.h
+	<iostream>
+	"Shape.h"
+
+1428050377 source:/home/muskan/Desktop/Assignment/Different Shapes/Shape.cpp
+	<iostream>
+	"Shape.h"
+
+1428050474 source:/home/muskan/Desktop/Assignment/Different Shapes/Square.cpp
+	<iostream>
+	<sstream>
+	"Square.h"
+	"Rectangle.h"
+
+1428050441 /home/muskan/Desktop/Assignment/Different Shapes/Square.h
+	<iostream>
+	"Rectangle.h"
+
+1428051088 source:/home/muskan/Desktop/Assignment/Different Shapes/Main.cpp
+	<iostream>
+	"Shape.h"
+	"Rectangle.h"
+	"Circle.h"
+	"Square.h"
+
